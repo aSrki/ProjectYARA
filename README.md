@@ -9,3 +9,7 @@ Firmware of the arm is based on STM32 microcnotroller, and implemented on STM32 
 Controll software for the arm is written in Python, for ease of use, and ROS2 software package was used for inverse kinematics calculation and for graphical preview of the robot.
 
 THIS PROJECT IS UNDER NO LICENCE AND PLEASE DOWNLOAD IT AND TRY IT OUT :D.
+
+Thanks to :  
+- [Andrej Čilag](https://github.com/andrejchilag)  
+- [Milutin Nikolić](https://github.com/ajsmilutin)
