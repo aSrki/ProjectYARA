@@ -1,3 +1,6 @@
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/aSrki/YARA-Firmware
+[submodule "ros2-controller"]
+	path = ros2-controller
+	url = https://github.com/aSrki/Yara-ROS2-Controller
