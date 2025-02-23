@@ -1,7 +1,7 @@
 # ProjectYARA (Yet Another Robot Arm)
 
 <video width="500" controls>
-  <source src="https://github.com/aSrki/ProjectYARA/blob/main/videos/20250223_154621.mp4" type="video/mp4">
+  <source src="videos/20250223_154621.mp4" type="video/mp4">
 </video>
 
 Project YARA is an idea to make a cheap, easy to DIY, modular robotic arm. This is version 1.0 (if i could even call it that) and there is certainly a lot of place for improvement. Robot arm is almost fully 3D printable, and build with common hardware available from Amazon, eBay, DigiKey, Mouser...
