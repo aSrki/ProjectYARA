@@ -4,3 +4,6 @@
 [submodule "ros2-controller"]
 	path = ros2-controller
 	url = https://github.com/aSrki/Yara-ROS2-Controller
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/aSrki/YARA-Hardware
